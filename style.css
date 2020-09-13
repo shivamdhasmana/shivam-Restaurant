@@ -1,0 +1,58 @@
+body{
+  background-color: lightgray;
+}
+
+.d-inline-block{
+  width:60px;
+  height: 30px;
+}
+
+.d-block {
+  height:300px;
+}
+nav{
+  background-color: black;
+
+}
+h1{
+  text-align: center;
+  font-size: 45px;
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: bolder;
+font-family: cursive;
+color: brown;
+}
+dt{
+  color: red;
+  font-size: 35px;
+  text-decoration: underline;
+  font-family: cursive;
+  text-align: center;
+}
+dd{
+  color: brown;
+  padding:0px 110px;
+}
+.card-img-top{
+  height:190px;
+
+}
+.card-title{
+  text-decoration: underline;
+  color: red;
+  font-weight:bold;
+  text-align: center;
+
+}
+.row-cols-md-3 {
+  background-color: 	#808000;
+}
+nav a:hover{
+  background-color: blue;
+  color:black;
+}
+footer{
+background-color: black;
+color: gray;
+}
